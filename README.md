@@ -88,7 +88,7 @@ Process both *pre-flood* and *post-flood* images using the following chain:
 ![Merged Image](images/merged.png)
 
 ### 📌 Final Flood Detection  
-![Final Result](images/final_result.png)
+![Final Result](final_result.png)
 
 ---
 
